@@ -1,18 +1,21 @@
 {
     "film"  :[
             {
+                "id":0,
                 "naziv":"Gone with the wind",
                 "reziser":"Victor Fleming",
                 "glumci":[ "Clark Gable", "Vivien Leigh", "Thomas Mitchell" ],
                 "imdb_ocena":8.8
             },
             {
+                "id":1,
                 "naziv":"1917",
                 "reziser":"Sam Mendes",
                 "glumci":[ "Dean-Charles Chapman", "George MacKay", "Daniel Mays" ],
                 "imdb_ocena":7.5
             },
             {
+                "id":2,
                 "naziv":"Joker (2019)",
                 "reziser":"Todd Phillips",
                 "glumci":[  "Joaquin Phoenix", "Robert De Niro", "Zazie Beetz" ],
@@ -22,56 +25,65 @@
 
     "glumac":[
         {
+            "id":0,
             "ime":"Clark Gable",
-            "godina rodjenja":1975,
+            "godina_rodjenja":1975,
             "visina": 1.75,
             "tezina":80.5
         },
         {
+            "id":1,
             "ime":"Vivien Leigh",
-            "godina rodjenja":1995,
+            "godina_rodjenja":1995,
             "visina": 1.95,
             "tezina":89.5
         },
         {
+            "id":2,
             "ime":"Thomas Mitchell",
-            "godina rodjenja":1955,
+            "godina_rodjenja":1955,
             "visina": 1.75,
             "tezina":79.5
         },
         {
+            "id":3,
             "ime":"Dean-Charles Chapman",
-            "godina rodjenja":1975,
+            "godina_rodjenja":1975,
             "visina": 1.95,
             "tezina":99.5
         },
         {
+            "id":4,
             "ime":"George MacKay",
-            "godina rodjenja":1575,
+            "godina_rodjenja":1575,
             "visina": 1.45,
             "tezina":109.5
         },
         {
+            "id":5,
             "ime":"Daniel Mays",
-            "godina rodjenja":1375,
+            "godina_rodjenja":1375,
             "visina": 2.45,
             "tezina":120.5
         },
         {
+            "id":6,
             "ime":"Joaquin Phoenix",
-            "godina rodjenja":1075,
+            "godina_rodjenja":1075,
             "visina": 3.0,
             "tezina":200
         },
         {
+            "id":7,
             "ime":"Robert De Niro",
-            "godina rodjenja":2199,
+            "godina_rodjenja":2199,
             "visina": 3.33,
             "tezina":169.3
         },
         {
+            "id":8,
             "ime":"Zazie Beetz",
-            "godina rodjenja":3000,
+            "godina_rodjenja":3000,
             "visina": 4.53,
             "tezina":1.89
         }
